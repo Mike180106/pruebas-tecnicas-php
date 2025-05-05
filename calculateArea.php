@@ -1,5 +1,9 @@
 <?php
 
+/*
+Hallar y mostrar el área de un triángulo, un rectángulo y un cuadrado.
+*/
+
 interface AreaCalculatorInterface
 {
     public function calculateArea(): float;
